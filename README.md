@@ -35,7 +35,7 @@ prices("MSFT")
 prices("MSFT", start="2025-01-01", adjusted=True)
 ```
 
-No unnecessary client initialization, provider-specific identifiers, or complex method chains. Data normalization, source resolution, and provenance are handled internally, keeping the research interface minimal without sacrificing rigor.
+No unnecessary client initialization, provider-specific identifiers, or complex method chains. Data normalization, source resolution, and provenance are handled internally, keeping the research interface minimal.
 
 ### Ireon | BYOD Data Layer
 
